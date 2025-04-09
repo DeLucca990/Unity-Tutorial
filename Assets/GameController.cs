@@ -3,6 +3,7 @@ using UnityEngine;
 public class GameController : MonoBehaviour
 {
     public GameOverScreen gameOverScreen;
+    public GameOverScreenWin gameOverScreenWin;
     public UIController uiController;
     public int remainingCollectibles;
 
@@ -45,8 +46,14 @@ public class GameController : MonoBehaviour
 
         if (remainingCollectibles <= 0)
         {
-            GameOver();
+            GameOverWin();
         }
+    }
+
+    public void GameOverWin()
+    {
+        gameOverScreenWin.Setup();
+        Time.timeScale = 0f;
     }
 
     public void GameOver()
