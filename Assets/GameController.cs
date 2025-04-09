@@ -38,7 +38,7 @@ public class GameController : MonoBehaviour
     {
         remainingCollectibles--;
         collectedItems++;
-        timer += 1f;
+        timer += 0.5f;
 
         uiController.UpdateCollected(collectedItems, totalCollectibles);
         uiController.UpdateTimer(timer);

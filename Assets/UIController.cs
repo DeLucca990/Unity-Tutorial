@@ -13,6 +13,6 @@ public class UIController : MonoBehaviour
 
     public void UpdateCollected(int collected, int total)
     {
-        collectedText.text = $"Itens Coletados: {collected}/{total}";
+        collectedText.text = $"Cookies Coletados: {collected}/{total}";
     }
 }
