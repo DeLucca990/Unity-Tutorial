@@ -11,6 +11,8 @@ public class GameController : MonoBehaviour
     private int totalCollectibles;
     private int collectedItems = 0;
 
+    public int CollectedItems => collectedItems;
+
     void Start()
     {
         Time.timeScale = 1f;
@@ -39,7 +41,7 @@ public class GameController : MonoBehaviour
     {
         remainingCollectibles--;
         collectedItems++;
-        timer += 0.5f;
+        timer += 0.75f;
 
         uiController.UpdateCollected(collectedItems, totalCollectibles);
         uiController.UpdateTimer(timer);

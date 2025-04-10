@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7a0a8f12c72f23234a6252a99994823a
+guid: 897a7b6eddbe0143faaa03b943264353
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3863070767019224812
-    second: capa_1_0
+      213: -6986503028771980584
+    second: Bread_Individual_BigWander_TheBanquet_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: capa_1_0
+      name: Bread_Individual_BigWander_TheBanquet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 15
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4119f95da9d936ac0800000000000000
-      internalID: -3863070767019224812
+      spriteID: 8dafadbe284fa0f90800000000000000
+      internalID: -6986503028771980584
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      capa_1_0: -3863070767019224812
+      Bread_Individual_BigWander_TheBanquet_0: -6986503028771980584
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
