@@ -37,3 +37,4 @@ Este projeto é para fins de teste e aprendizado. Sinta-se à vontade para modif
 ## Fontes:
 - [Som de Fundo](https://pixabay.com/music/main-title-pirate-ship-cinematic-movie-scene-254144/)
 - [Efeitos Sonoros](https://pixabay.com/sound-effects/crumple-92100/)
+- [Assets](https://kyrise.itch.io/kyrises-free-16x16-rpg-icon-pack)
