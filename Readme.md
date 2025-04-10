@@ -30,3 +30,6 @@ Projeto Unity criado para fins de teste. Ele demonstra funcionalidades básicas 
 ## Uso
 
 Este projeto é para fins de teste e aprendizado. Sinta-se à vontade para modificar e experimentar com o código e assets.
+
+## Link do Jogo:
+[Bone Appetit](https://pedrodl.itch.io/bone-appetit)
