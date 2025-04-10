@@ -33,3 +33,7 @@ Este projeto é para fins de teste e aprendizado. Sinta-se à vontade para modif
 
 ## Link do Jogo:
 [Bone Appetit](https://pedrodl.itch.io/bone-appetit)
+
+## Fontes:
+- [Som de Fundo](https://pixabay.com/music/main-title-pirate-ship-cinematic-movie-scene-254144/)
+- [Efeitos Sonoros](https://pixabay.com/sound-effects/crumple-92100/)
