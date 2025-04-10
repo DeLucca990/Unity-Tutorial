@@ -3704,7 +3704,19 @@ PrefabInstance:
     - target: {fileID: 7680799653669456519, guid: 6f9263bffd58754baa555f06e477a9af, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 5292376093244894703, guid: 24849ee0c3237706cbfc20d45a7e06eb, type: 3}
+      objectReference: {fileID: -5548135342559399204, guid: 10cc6614262e1ec08b1877ae8eed8244, type: 3}
+    - target: {fileID: 7680799653669456519, guid: 6f9263bffd58754baa555f06e477a9af, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8207547
+      objectReference: {fileID: 0}
+    - target: {fileID: 7680799653669456519, guid: 6f9263bffd58754baa555f06e477a9af, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8207547
+      objectReference: {fileID: 0}
+    - target: {fileID: 7680799653669456519, guid: 6f9263bffd58754baa555f06e477a9af, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8207547
+      objectReference: {fileID: 0}
     - target: {fileID: 9067359544300482060, guid: 6f9263bffd58754baa555f06e477a9af, type: 3}
       propertyPath: m_Name
       value: Player
